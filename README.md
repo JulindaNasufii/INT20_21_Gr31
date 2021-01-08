@@ -1,2 +1,1 @@
-# education
-March - SPA
+
